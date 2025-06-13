@@ -27,5 +27,3 @@ We aim to sharpen your problem-solving skills, master algorithms, and build a co
 - 📱 Follow us: [Facebook](https://www.facebook.com/hnu.icpc) | [LinkedIn](https://www.linkedin.com/company/hnu-icpc-community)
 
 Happy coding! 💡 Let's conquer ICPC together! 🥇
-
----
