@@ -1,1 +1,1 @@
-# .github
+# ICPC HNU Community
